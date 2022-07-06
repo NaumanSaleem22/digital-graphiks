@@ -1,0 +1,19 @@
+.header-topbar{
+    display: flex;
+align-items: center;
+justify-content: space-evenly;
+gap:10px;
+padding:10px 20px;
+background-color: rgb(254, 238, 0);
+}
+
+ 
+.logo-topbar{
+    max-width: 100px;
+}
+.search-div{
+    flex:0 0 60%!important;
+}
+/* .header-topbar div{
+    flex:1;
+} */
